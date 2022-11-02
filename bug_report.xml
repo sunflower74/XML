@@ -1,1 +1,7 @@
-
+<message>
+	<number>01</number>
+	<summary>wrong error message</summary>
+	<reproducability>always</reproducability>
+  <severity>minor</severity>
+  <priority>normal</priority>
+</message>{
