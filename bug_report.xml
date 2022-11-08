@@ -9,7 +9,7 @@
 	<Steps_to_reproduce>1. Place in SOURCE_DIR a file with extension .md larger than 35 MB
                           2. Execute in a command line: php converter.phar C:/converter/SOURCE_DIR C:/converter/DESTINATION_DIR
                           3. Check the absence of output converted file in the DESTINATION_DIR
-                          Defect -.md files larger than 35MB are not converted</Steps_to_reproduce>
+                          Defect- .md files larger than 35MB are not converted</Steps_to_reproduce>
 	<Reproducibility>always</Reproducibility>
 	<Severity>critical</Severity>
 	<Priority>high</Priority>
