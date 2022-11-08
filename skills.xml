@@ -1,5 +1,9 @@
-<message>
-	<skill1>postman</skill1>
-	<skill2>API</skill2>
-</message>
 
+<?xml version = "1.0" encoding="utf-8"?>
+<message>
+	<skill1>Bash</skill1>
+	<skill2>Git</skill2>
+	<skill3>Postman</skill3>
+	<skill4>SQL</skill4>
+	
+</message>

@@ -1,3 +1,17 @@
-Season -summer
-Drink- coffee
-Country-Japan
+<?xml version = "1.0" encoding="utf-8"?>
+
+<message>
+<favourite film>Dirty Dancing</film>
+	<favourite series>ER</favourite series>
+	<favourite food>chocolate</favourite food>
+	<season>summer</season>
+	<country>Brazil</country>
+</message>
+<?xml version = "1.0" encoding="utf-8"?>
+<message>
+	<favourite_film>Dirty Dancing</film>
+	<favourite_series>ER</favourite_series>
+	<favourite_food>chocolate</favourite_food>
+	<season>summer</season>
+	<country>Brazil</country>
+</message>
